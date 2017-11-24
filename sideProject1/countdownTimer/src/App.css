@@ -1,7 +1,7 @@
 .App{
   text-align: center;
   font-size: 99px;
-  background-color: #FF0000
+  background-color: #FF0000;
 }
 
 .App-title{
@@ -9,8 +9,15 @@
   color:#00FF2A;
 }
 
-.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
-  display: inline;
-  margin: 11px;
+.Clock-days {
   font-size: 22px;
+}
+
+.Clock-hours, .Clock-minutes, .Clock-seconds {
+  /* display: inline; */
+  font-size: 20px;
+}
+
+.button {
+  margin-bottom: 335px;
 }
