@@ -10,12 +10,22 @@
 }
 
 .Clock-days {
-  font-size: 22px;
+  font-size: 30px;
 }
 
-.Clock-hours, .Clock-minutes, .Clock-seconds {
-  /* display: inline; */
-  font-size: 20px;
+.Clock-hours{
+  text-align: center;
+  font-size: 25px;
+}
+
+.Clock-minutes {
+  text-align: center;
+  font-size: 21px;
+}
+
+.Clock-seconds {
+  text-align: center;
+  font-size: 17px;
 }
 
 .button {
