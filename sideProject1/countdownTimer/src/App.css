@@ -1,7 +1,9 @@
 .App{
   text-align: center;
-  font-size: 99px;
-  background-color: #FF0000;
+  font-size: 33px;
+  /* background-color: #FF0000; */
+  margin-top: 20%;
+  margin-bottom: 25%;
 }
 
 .App-title{
@@ -26,8 +28,10 @@
 .Clock-seconds {
   text-align: center;
   font-size: 17px;
+  margin-bottom: 10px
 }
 
-.button {
-  margin-bottom: 335px;
+.Deadline-input {
+  font-size: 15px;
+  margin: 5px;
 }
